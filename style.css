@@ -20,7 +20,7 @@ header {
 
 header span {
     /* Стили для текста в хедере IT-INCUBATOR */
-        font-weight: 700;
+    font-weight: 700;
     font-size: 20px;
     color: #fff;
 }
@@ -50,7 +50,7 @@ header span {
 
 .main-image {
     /* Стили для изображения в первой секции */
-    width: 715px;
+    max-width: 715px;
 }
 
 
